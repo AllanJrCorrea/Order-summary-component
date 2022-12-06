@@ -7,7 +7,7 @@ Esta é uma solução para o [Desafio do Front End Mentor](https://www.frontendm
 
 ### O desafio
 
-desafio é construir esse componente do cartão de resumo do pedido e deixá-lo o mais próximo possível do design.
+O desafio é construir esse componente do cartão de resumo do pedido e deixá-lo o mais próximo possível do design.
 
 
 ### Captura de tela
@@ -18,7 +18,7 @@ desafio é construir esse componente do cartão de resumo do pedido e deixá-lo 
 
 ### Links
 
-- Deploy: [Projeto pronto](https://allanjrcorrea.github.io/Order-summary-component/)
+- [Projeto pronto](https://allanjrcorrea.github.io/Order-summary-component/)
 
 
 ## Meu processo
@@ -36,4 +36,4 @@ Reforcei meus conhecimentos de HTML e CSS.
 
 ## Author
 
-- LinkedIn - [Alan](https://www.linkedin.com/in/allanajc/)
+- LinkedIn - [Allan](https://www.linkedin.com/in/allanajc/)
